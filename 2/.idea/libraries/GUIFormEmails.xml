@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GUIFormEmails">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/GUIFormEmails.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

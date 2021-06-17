@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8831562-1d71-4f72-a244-22477c10d845" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XIrr2b755PyPOysvXGeci2s6WO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.HttpClient">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="lab1_pr" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpClient" />
+      <module name="lab1_pr" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SocketProgram" />
+      <module name="lab1_pr" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HttpClient" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.SocketProgram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8831562-1d71-4f72-a244-22477c10d845" name="Default Changelist" comment="" />
+      <created>1580744644567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580744644567</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1580744861366">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1580744861366" />
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1588756475452">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588756475452" />
+    <state width="1237" height="500" key="GridCell.Tab.0.bottom" timestamp="1588022692772">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="500" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588022692772" />
+    <state width="1237" height="500" key="GridCell.Tab.0.center" timestamp="1588022692771">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="500" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588022692771" />
+    <state width="1237" height="500" key="GridCell.Tab.0.left" timestamp="1588022692769">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="500" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588022692769" />
+    <state width="1237" height="500" key="GridCell.Tab.0.right" timestamp="1588022692771">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="500" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588022692771" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1580768261898">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580768261898" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1580768261898">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1580768261898" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1580768261898">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1580768261898" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1580768261898">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1580768261898" />
+    <state x="342" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1588756443784">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="342" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588756443784" />
+    <state x="91" y="0" key="new project wizard" timestamp="1588756477667">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1588756477667" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1581958226262">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1581958226262" />
+    <state x="303" y="1" key="search.everywhere.popup" timestamp="1580745707494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580745707494" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lab1_pr$HttpClient.ic" NAME="HttpClient Coverage Results" MODIFIED="1582545220770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
